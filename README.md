@@ -30,7 +30,7 @@ Here are my answers to the questions:
 
 Taking into consideration mean values of beer strenght (as beer_abv) for all beers produced in the given brewery, according to the dataset, the strongest beers are produced in brewery Schorschbräu. This brewery also produces the strongest beers included in the dataset:
 
-- Schorschbräu Schorschbock 57%, and
+- Schorschbräu Schorschbock 57% and
 - Schorschbräu Schorschbock 43%
 
 <br>
@@ -55,7 +55,7 @@ Based on the results, there is a list of beers all rated:
 - 5 for aroma
 - with strength below 4.5
 <br>
-I would choose the beers with higest amount of reviews, as it means the higest number of people agreed on their qualities, making them a safe recommendation. The recommended beers would be:
+I would choose the beers with highest amount of reviews, as it means the highest number of people agreed on their qualities, making them a safe recommendation. The recommended beers would be:
 
 - Guinness Draught
 - Yuengling Traditional Lager
@@ -75,9 +75,9 @@ Summary of the correlation coefficient between overall reviews and other paramet
 
 Based on the correlation between overall reviews and other parameters, we see that there are a few factors affecting the overall perception of a beer:
 
-- taste and palate have the highest impact, with very strong correlation
-- aroma and appearance also show strong correlation
-- and there is no or very week correlation with the beer strength, which means, that the parameter beer_abv doesn't impart the overall perception of the beer. <br>
+- taste and palate have the highest impact, with very strong correlation,
+- aroma and appearance also show strong correlation,
+- and there is no or very weak correlation with the beer strength, which means, that the parameter beer_abv doesn't impart the overall perception of the beer. <br>
 
 To sum up, all 4 factors (taste, palate, aroma and appearance) greatly affect the overall perception of the beer, but the 3 factors, that affect it the most are (in order):
 
